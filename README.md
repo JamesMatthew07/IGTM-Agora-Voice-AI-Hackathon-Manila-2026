@@ -101,8 +101,6 @@ Get up and running quickly with these official repositories:
 - [Agora Developer Portal](https://docs.agora.io/)
 - [Agora Developer Console](https://console.agora.io/)
 - [Event Page (Luma)](https://luma.com/iuxsx2ia)
-- [Agora Convo AI Guides](https://docs.agora.io/en/conversational-ai/overview/product-overview)
-- [Hackathon Technical Handbook](https://github.com/AgoraIO-Community/hackathon-handbook)
 - [TRAE IDE User Guide](https://trae.ai/docs)
 
 ***
